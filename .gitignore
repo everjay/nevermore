@@ -1,0 +1,6 @@
+# pyenv shit
+.python-version
+
+# python shit
+__pycache__/
+
