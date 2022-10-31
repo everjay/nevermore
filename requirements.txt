@@ -4,4 +4,5 @@ isort==5.10.1
 mypy-extensions==0.4.3
 pathspec==0.10.1
 platformdirs==2.5.2
+SpeechRecognition==3.8.1
 tomli==2.0.1
